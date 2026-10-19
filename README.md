@@ -49,7 +49,7 @@ world leaderboard that resets every day. Pick your team, keep your streak alive 
 You only need a browser and Python (to serve the files).
 
 ```
-git clone https://github.com/sauravh-dev/planet-pulse.git
+git clone https://github.com/sauravh-ledger/planet-pulse.git
 cd planet-pulse
 python -m http.server 8000
 ```
